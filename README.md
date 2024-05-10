@@ -1,7 +1,10 @@
 # Echarts-Demo
 - 数据可视化-Echarts 大屏数据可视化展示
 - 展示地址：https://nichan-13.github.io/Echarts-Demo/
+<<<<<<< HEAD
 - 本地修改一下看看git库有没有变化？
+=======
+>>>>>>> Echarts-Demo/master
 
 
 ## Echarts介绍
